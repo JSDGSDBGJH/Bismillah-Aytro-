@@ -1,9 +1,7 @@
 #sec_not{
     height: 760px;
     width: 100%;
-    background: url(/assets/image/404.png);
-    background-position: center;
-    background-size: cover;
+    background: linear-gradient(107.29deg, #1C293F -0.36%, #161F33 98.58%);
 }
 #sec_not .container{
     height: 100%;
